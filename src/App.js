@@ -5,6 +5,8 @@ import Categories from "./Categories";
 
 import { HashRouter as Router, Route } from 'react-router-dom';
 
+import "katex/dist/katex.css";
+
 class App extends PureComponent {
 	render() {
 		return (

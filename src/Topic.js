@@ -2,6 +2,8 @@ import remark from "remark";
 import remark2react from "remark-react";
 import frontmatter from "remark-frontmatter";
 import extract from "remark-extract-frontmatter";
+import math from "remark-math";
+import katex from "remark-html-katex";
 import { parse as yamlParse } from "yaml";
 
 export default class Topic {
@@ -13,7 +15,10 @@ export default class Topic {
 	async initTopic() {
 		const res = await fetch(this.path);
 		this.parsed = await remark()
-			.use(remark2react)
+			.use(math)
+			.use(katex)
+			// TODO: try to enable snitization, but keep katex working
+			.use(remark2react, { sanitize: false })
 			.use(frontmatter, ["yaml", "toml"])
 			.use(extract, { yaml: yamlParse })
 			.process(await res.text())
