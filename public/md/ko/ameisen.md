@@ -1,3 +1,7 @@
+---
+title: Ameisenalgorithmus
+---
+
 Ameisen wählen Pfad nach Pheromongehalt und Länge.
 a = 0 => Nur Heuristik
 b = 0 => Nur Pheromon

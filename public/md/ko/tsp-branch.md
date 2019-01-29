@@ -1,3 +1,7 @@
+---
+title: TSP Branching-Regeln
+---
+
 ## Branching beim TSP
 1. Branching über Anfangswege von Touren
 Lege pro Ebene einen Knoten der Tour fest.

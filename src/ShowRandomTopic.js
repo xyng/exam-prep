@@ -6,7 +6,8 @@ class ShowRandomTopic extends Component {
     constructor(props) {
         super(props)
 
-        this.randomTopic = new RandomTopicGenerator()
+        const { category } = this.props.match.params
+        this.randomTopic = new RandomTopicGenerator(category)
 
         this.state = {
             loading: true
@@ -25,7 +26,7 @@ class ShowRandomTopic extends Component {
             hasTopics: this.randomTopic.hasUnusedTopics()
         })
 
-        topic.getTopic().then(topic => {
+        topic.initTopic().then(() => {
             this.setState({
                 loading: false,
                 topic

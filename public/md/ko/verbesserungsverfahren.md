@@ -1,3 +1,7 @@
+---
+title: Verbesserungsverfahren
+---
+
 ## Iterative Improvement
 Beginne mit aktueller Lösung und wähle einen Nachbarn zu dieser.
 Wähle beste Lösung und fahre mit dieser fort.

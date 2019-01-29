@@ -1,3 +1,7 @@
+---
+title: Constraint Programming
+---
+
 CSP (Constraint Satisfaction Problem) wird definiert durch:
 - endliche Menge X = {x1, ..., xn}
 - endliche Wertebereiche (Domänen) Di (i = 1, ..., n) für Variablen xi

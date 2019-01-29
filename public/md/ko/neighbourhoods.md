@@ -1,3 +1,7 @@
+---
+title: Nachbarschaften
+---
+
 `N_api`: Vertauschen von benachbarten Elementen
 `N_swap`: Beliebige Vertauschungen
 `N_shift`: Element an andere Position schieben

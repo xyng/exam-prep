@@ -1,3 +1,7 @@
+---
+title: Heuristische Eröffnungsverfahren
+---
+
 ## Nearest Neighbour
 Gehe iterativ jeweils zum nächsten Knoten weiter, der die geringste Entfernung hat.
 **Greedy-Algorithmus** - sucht zunächst immer günstigste Alternative, muss aber gegen Ende ggf. sehr teure Kanten verwenden.

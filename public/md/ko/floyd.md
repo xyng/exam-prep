@@ -1,3 +1,7 @@
+---
+title: Algorithmus von Floyd
+---
+
 `dk[i, j]` ist Länge des kürzesten Weges von `i` nach `j`, die nur die Zwischenknoten `1, ..., k` enthalten.
 
 ```

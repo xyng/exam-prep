@@ -1,3 +1,7 @@
+---
+title: Genetische Algorithmen
+---
+
 ```
 while not Abbruchkriterium:
     Wähle Eltern sM, sF aus Population

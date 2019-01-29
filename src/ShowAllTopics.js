@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import topics from './topics';
+import categories from './topics';
 import ShowTopic from './ShowTopic';
 
 class ShowAllTopics extends Component {
@@ -13,9 +13,11 @@ class ShowAllTopics extends Component {
     }
 
     componentDidMount() {
+        const { category } = this.props.match.params
+        const topics = categories[category]
         Promise.all(topics.map(
-            topic => topic.getTopic()
-        )).then(topics => {
+            topic => topic.initTopic()
+        )).then(() => {
             this.setState({
                 loading: false,
                 topics
@@ -34,12 +36,8 @@ class ShowAllTopics extends Component {
                     <div className="row">
                         {topics.map(
                             (topic, index) => (
-                                <div className="col-6" key={`topic-${index}`}>
-                                    <div className="card mb-4">
-                                        <div className="card-body">
-                                            <ShowTopic topic={topic} />
-                                        </div>
-                                    </div>
+                                <div className="col-12 col-lg-6" key={`topic-${index}`}>
+                                    <ShowTopic topic={topic} />
                                 </div>
                             )
                         )}

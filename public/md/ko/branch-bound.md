@@ -1,3 +1,7 @@
+---
+title: Branch & Bound
+---
+
 Bei maximierungsproblemen: Ausschluss von Branches über Obere Schranken (wenn `<=` aktueller Wert).
 Bei minimierungsproblemen: Ausschluss von Branches über untere Schranken (wenn `>=` aktueller Wert).
 

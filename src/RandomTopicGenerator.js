@@ -1,8 +1,12 @@
-import topics from "./topics"
+import categories from "./topics"
 
 export default class RandomTopicGenerator {
-	constructor() {
-		this.topics = topics
+	constructor(category) {
+		this.topics = categories[category]
+
+		if (this.topics === undefined) {
+			throw new Error(`Undefined Category: ${category}`)
+		}
 
 		this.usedTopics = []
 	}

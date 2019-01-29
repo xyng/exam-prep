@@ -1,3 +1,7 @@
+---
+title: Optimierungsprobleme
+---
+
 ## Rucksackproblem
 `n` Objekte mit Gewicht `w1, ..., wn` und Nutzen `c1, ..., cn` sowie ein Rucksack mit Gewichtsbeschränkung `W`.
 

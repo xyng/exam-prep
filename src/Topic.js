@@ -1,19 +1,27 @@
+import remark from "remark";
+import remark2react from "remark-react";
+import frontmatter from "remark-frontmatter";
+import extract from "remark-extract-frontmatter";
+import { parse as yamlParse } from "yaml";
+
 export default class Topic {
-	constructor(title, mdFile) {
-		this.title = title
-		this.mdFile = mdFile
+	constructor(filename, path) {
+		this.filename = filename
+		this.path = path
 	}
 
-	getTopic() {
-		return fetch(this.mdFile)
-			.then(res => res.text())
-			.then(md => ({
-				title: this.title,
-				description: md,
-			}))
+	async initTopic() {
+		const res = await fetch(this.path);
+		this.parsed = await remark()
+			.use(remark2react)
+			.use(frontmatter, ["yaml", "toml"])
+			.use(extract, { yaml: yamlParse })
+			.process(await res.text())
+
+		this.parsed.data.title = this.parsed.data.title || this.filename
 	}
 
 	equals(topic) {
-		return this.title === topic.title
+		return this.path === topic.path
 	}
 }
