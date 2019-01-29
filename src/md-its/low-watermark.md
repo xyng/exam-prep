@@ -1,0 +1,2 @@
+Erweiterung von `Biba` durch auflockerung der `No read down` - Regel.
+Nutzer können auch Dokumente mit `L(U) > L(X)` lesen, allerdings wird dann `L(X) = L(U)` gesetzt - die Vertraulichkeitsstufe des Nutzers also ggf. reduziert.
