@@ -1,0 +1,6 @@
+- `Eingabe` sind beliebig lange Texte
+- `Ausgabe` ist klein und besitzt konstante Länge
+- Schnell berechenbar
+- `One-Way-Function`
+- Schwache Kollisionsresistenz (zwei verschiedene Eingaben haben gleiche Ausgabe)
+- Starke Kollisionsresistenz (Es muss schwer sein zu finden: `m1, m2 mit h(m1) == h(m2)`)

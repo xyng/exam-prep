@@ -1,0 +1,6 @@
+- Confidentiality - Ensured by `Encryption`
+  - Did somebody read the package during transmission?
+- Integrity Protection - Ensured by `Signatures`
+  - Was the package changed during transmission?
+- Authentication - Ensured by `Certificates`
+  - Is my partner the one he claims to be?

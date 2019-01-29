@@ -1,0 +1,10 @@
+- Verschlüsselter Virus
+  - Decrypt-Engine mit verschlüsseltem Body.
+  - &rarr; Suchen nach Decrypt-Engine
+- Polymorphic Virus
+  - Verschlüsselter Virus mit Padding um Decrypt-Engine
+  - &rarr; Mit CPU-Emulator profilen
+- Metamorphischer Virus
+  - Verschiedene Bodies
+  - Code Permutation oder Instruction Replacement (Virus schreibt sich selbst um)
+  - Schwer zu erkennen
