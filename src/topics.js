@@ -1,8 +1,8 @@
 import Topic from "./Topic"
 
 const categories = {}
-const files = require.context("../public/md/", true, /\.md$/).keys();
-files.forEach(file => {
+const files = require.context("../public/md/", true, /\.md$/);
+files.keys().forEach(file => {
     const parts = file.replace("./", "").split("/")
 
     const filename = parts.pop()
@@ -10,7 +10,7 @@ files.forEach(file => {
 
     categories[category] = categories[category] || []
     categories[category].push(
-        new Topic(filename, file.replace("./", "./md/"))
+        new Topic(filename, files(file))
     )
 })
 
