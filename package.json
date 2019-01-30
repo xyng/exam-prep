@@ -2,6 +2,7 @@
   "name": "random-topic",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://exam-prep.herr-melchior.de",
   "dependencies": {
     "bootstrap": "^4.2.1",
     "github-markdown-css": "^2.10.0",
