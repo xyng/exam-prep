@@ -4,12 +4,14 @@
   "private": true,
   "homepage": "https://exam-prep.herr-melchior.de",
   "dependencies": {
-    "bootstrap": "^4.2.1",
+    "bootstrap": "^4.3.1",
     "github-markdown-css": "^2.10.0",
+    "jquery": "^3.3.1",
     "katex": "^0.10.0",
     "mdx.macro": "^0.2.8",
-    "react": "^16.7.0",
-    "react-dom": "^16.7.0",
+    "popper.js": "^1.14.7",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1",
     "react-router-dom": "^4.3.1",
     "react-scripts": "2.1.3",
     "remark": "^10.0.1",
@@ -17,8 +19,9 @@
     "remark-frontmatter": "^1.3.1",
     "remark-html-katex": "^1.2.0",
     "remark-math": "^1.0.5",
+    "remark-parse": "^6.0.3",
     "remark-react": "^5.0.1",
-    "yaml": "^1.3.1"
+    "yaml": "^1.3.2"
   },
   "scripts": {
     "start": "react-scripts start",
