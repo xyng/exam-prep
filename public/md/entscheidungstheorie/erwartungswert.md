@@ -1,4 +1,6 @@
 ---
 title: Erwartungswert
 ---
-$ E(x) = M = \sum_{i=1}^N w(x_{i})*x_{i} $
+$$
+E(x) = \mu = \sum_{i=1}^N w(x_{i})*x_{i}
+$$
