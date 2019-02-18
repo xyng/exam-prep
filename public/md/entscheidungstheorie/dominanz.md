@@ -17,4 +17,7 @@ $$
 $absolute\ Dominanz \Rightarrow Zustandsdominanz$
 $Zustandsdominanz \nRightarrow absolute\ Dominanz$
 ## Wahrscheinlichkeits-Dominanz
-Dominierende Alternative hat höhere Wahrscheinlichkeit einen bestimmten Betrag zu erzielen.
+Die Wahrscheinlichkeitsverteilung $f(x)$ dominiert $g(x)$ im Sinne der Wahrscheinlichkeitsdominanz, wenn gilt:
+$$
+\forall x: F(x) \leq G(x) \wedge \exists x: F(x) < G(x)
+$$
