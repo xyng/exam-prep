@@ -2,7 +2,10 @@
 title: Maschinen und zugehörige Sprachen
 ---
 
-- Regulär: (nicht-)Deterministisch endlicher Automat
-- Kontextfrei: Kellerautomat
-- Kontextsensitiv: Linear beschränkte Turing-Maschinen
-- rekursiv aufzählbar: Turing-Maschinen
+Sprache | Automat | Laufzeit | Speicher
+--- | --- | --- | --- |
+rekursiv aufzählbar | Turing Maschine | nicht entscheidbar | -
+Kontextsensitiv | Linear beschränkte Turing-Maschine | exponentiell | linear
+Kontextfrei | nicht-deterministischer Kellerautomat | kubisch | quadratisch
+deterministisch Kontextfrei | deterministischer Kellerautomat | linear | linear
+Regulär | (nicht-) deterministischer endlicher Automat | linear | konstant
