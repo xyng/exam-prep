@@ -34,7 +34,7 @@ Teilautomaten für Teilausdrücke:
 ## DEA $\rightarrow$ Regulärer Ausdruck
 
 - Neuer Zustand $Z_e$. $\varepsilon$-Kanten von jedem Endzustand zu $Z_e$. $Z_e$ nun einziger Endzustand.
-- Solange $\exists Z \in \mathcal{Z} \setminus \{Z_s, Z_e\}$. Für jedes Paar $(Z_i, Z_o) \in Z_{in} \times Z_{out}$: Sein folgende RegEx an den Übergängen (wenn sie $\exists$)
+- Solange $\exists Z \in \mathcal{Z} \setminus \{Z_s, Z_e\}$. Für jedes Paar $(Z_i, Z_o) \in Z_{in} \times Z_{out}$: Seien folgende RegEx an den Übergängen (wenn sie $\exists$)
   - $E_i: Z_i \rightarrow Z$
   - $E_z: Z \rightarrow Z$
   - $E_o: Z \rightarrow Z_o$
