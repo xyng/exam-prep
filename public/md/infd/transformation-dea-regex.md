@@ -1,0 +1,12 @@
+---
+title: DEA zu Regulärem Ausdruck
+---
+- Neuer Zustand $Z_e$. $\varepsilon$-Kanten von jedem Endzustand zu $Z_e$. $Z_e$ nun einziger Endzustand.
+- Solange $\exists Z \in \mathcal{Z} \setminus \{Z_s, Z_e\}$. Für jedes Paar $(Z_i, Z_o) \in Z_{in} \times Z_{out}$: Seien folgende RegEx an den Übergängen (wenn sie $\exists$)
+  - $E_i: Z_i \rightarrow Z$
+  - $E_z: Z \rightarrow Z$
+  - $E_o: Z \rightarrow Z_o$
+  - $E_{io}: Z_i \rightarrow Z_o$
+  - Setze $E_{io} := E_{io}|E_i(E_z)^*E_o$
+- Entferne $Z$.
+- Am Ende nurnoch $Z_{start}$ und $Z_{e}$ übrig mit RegEx $(E_1)^*E_2$
