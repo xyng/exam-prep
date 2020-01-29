@@ -1,6 +1,6 @@
 ---
 title: Investition
 ---
-Bindung von Kapital auf Zeit in der Unternehmung
+Investition ist ein betrieblicher Vorgang, der zu unterschiedlichen Zeitpunkten $t$ Einzahlungen und Auszahlungen verursacht, wobei dieser Vorgang immer mit einer Auszahlung beginnt.
 
-Betrieblicher Vorgang, der zu unterschiedlichen Zeitpunkten Einzahlungen und Auszahlungen verursacht. Finanzierung ist Voraussetzung jeder Investition.
+Beispiel: $\{-100, 50, 70, 80\}$

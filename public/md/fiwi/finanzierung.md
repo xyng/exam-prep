@@ -1,6 +1,6 @@
 ---
 title: Finanzierung
 ---
-Bereitstellung von Kapital auf Zeit
+Investition ist ein betrieblicher Vorgang, der zu unterschiedlichen Zeitpunkten $t$ Einzahlungen und Auszahlungen verursacht, wobei dieser Vorgang immer mit einer Einzalung beginnt.
 
-Vorgang, der zu unterschiedlichen Zeitpunkten Einzahlungen und Auszahlungen verursacht. Beginnt immer mit Einzahlung.
+Beispiel: $\{300, -130, -120, -110\}$
