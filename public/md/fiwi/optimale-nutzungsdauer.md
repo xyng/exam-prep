@@ -4,7 +4,7 @@ title: Optimale Nutzungsdauer
 Definiert als Optimierungsproblem.
 
 $$
-V_0(t) = -A_0 + \sum_{t=1}^T a_t * q^{-t} + L_t * q^{-t}
+V_0(t) = -A_0 + \sum_{t=1}^T a_t * q^{-t} + L_T * q^{-T}
 $$
 
 $$
@@ -14,7 +14,7 @@ $$
 - $a_t$ EZÜ in Periode $t$
 - $L_t$ Nettoliquidationserlös bei Projektende in $t$
 - $V_o(T)$ Kapitalwert bei Nutzungsdauer von $T$ Perioden
-- $T_{max}$ maximale Projektlaufzeit von T_{max} perioden
+- $T_{max}$ maximale Projektlaufzeit
 
 
 ### Beispiel

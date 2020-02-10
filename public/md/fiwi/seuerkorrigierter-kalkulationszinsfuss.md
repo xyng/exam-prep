@@ -17,6 +17,7 @@ Der Fall $V_0^s \gt V_0$ wird **Steuerparadoxon** genannt.
 
 ### Beispiel
 Hier: ohne Steuern herrscht indifferenz. Mit Steuern ist das Projekt vorteilhaft.
+
 $t$ | $0$ | $1$ | $2$
 --- | --- | --- | ---
 $a_t$ | $-100$ | $50$ | $84$
