@@ -1,6 +1,21 @@
 ---
 title: Leverage Effekt
 ---
+Erwartungswert der Zahlungen:
+- $S$: Menge der möglichen Zustände
+- $w(s)$: Eintrittswahrscheinlichkeit für Zustand $s$
+- $a(s)$: Auszahlung bei Zustand $s$
+$$
+\mu = \sum_{s}^{S}w(s)*a(s)
+$$
+
+Standardabweichung
+$$
+\sigma = \sqrt{\sum_{s}^{S}w(s)(*a(s)-\mu)^2}
+$$
+
+---
+
 - $\tilde{a} = \tilde{b}_{EK}+b_{FK}$: EZÜ in t=1
 - $EK$: in $t=0$ eingesetztes Eigenkapital
 - $FK$: in $t=0$ eingesetztes Fremdkapital
