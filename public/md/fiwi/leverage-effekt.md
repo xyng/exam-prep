@@ -29,14 +29,14 @@ $$
 - $Var(\cdot)$: Varianz
 
 $$
-\tilde{r}_{EK} = \tilde{r}_{GK} + (\tilde{r}_{GK} - r_{FK}) * \frac{FK}{EK}
+\tilde{r}_{GK} = \frac{\tilde{a}}{GK} - 1
 $$
-> Formel für Eigenkapitalrendite
+> Gesamtkapitalrendite
 
 $$
-\bar{r}_{EK} = \bar{r}_{GK} + (\bar{r}_{GK} - r_{FK}) * \frac{FK}{EK}
+\tilde{r}_{EK} = \tilde{r}_{GK} + (\tilde{r}_{GK} - r_{FK}) * \frac{FK}{EK}
 $$
-> Formel für _erwartete_ Rendite.
+> Eigenkapitalrendite. Mit $\bar{r}_{GK}$: _erwartete_ Eigenkapitalrendite.
 
 $\bar{r}_{EK}$ ...
 - steigt mit wachsendem Verschuldungsgrad, wenn: $\bar{r}_{GK} \gt r_{FK}$
