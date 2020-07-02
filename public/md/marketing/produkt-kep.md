@@ -1,5 +1,5 @@
 ---
-title: Das Produkt
+title: Das Produkt im KEP
 ---
 Kategorie:
 - Neu vs. eingeführte Produkte
