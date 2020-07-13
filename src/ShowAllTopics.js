@@ -9,6 +9,7 @@ class ShowAllTopics extends Component {
         this.state = {
             loading: true,
             topics: [],
+            allOpen: false,
         }
     }
 
@@ -25,23 +26,35 @@ class ShowAllTopics extends Component {
         })
     }
 
+    toggleOpenAll = () => {
+        this.setState({
+            allOpen: !this.state.allOpen
+        })
+    }
+
     render() {
-        const { topics } = this.state
+        const { topics, allOpen } = this.state
 
         return (
             <div className="container text-center py-4">
                 {this.state.loading && <p>Loading</p>}
 
                 {!this.state.loading && (
-                    <div className="row">
-                        {topics.map(
-                            (topic, index) => (
-                                <div className="col-12 col-lg-6" key={`topic-${index}`}>
-                                    <ShowTopic topic={topic} />
-                                </div>
-                            )
-                        )}
-                    </div>
+                    <>
+                        <button className="btn btn-secondary" onClick={this.toggleOpenAll}>
+                            {allOpen && <span>Close all</span>}
+                            {!allOpen && <span>Open all</span>}
+                        </button>
+                        <div className="row mt-4">
+                            {topics.map(
+                                (topic, index) => (
+                                    <div className="col-12 col-lg-6" key={`topic-${index}`}>
+                                        <ShowTopic topic={topic} isOpen={allOpen} />
+                                    </div>
+                                )
+                            )}
+                        </div>
+                    </>
                 )}
             </div>
         );

@@ -1,0 +1,27 @@
+@import "~bootstrap/dist/css/bootstrap.min.css" only screen;
+
+@media print {
+    body, .markdown-body {
+        font-family: "CMU Serif", serif !important;
+        font-size: 18px;
+        line-height: 1.5;
+    }
+
+    .card {
+        padding-bottom: 2em;
+        border-bottom: 1px solid black;
+    }
+
+    .card .card {
+        padding-bottom: initial;
+        border-bottom: initial;
+    }
+
+    .card-body > h2 {
+        font-size: 2em;
+    }
+
+    .btn, .card-footer {
+        display: none;
+    }
+}
