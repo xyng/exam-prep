@@ -35,8 +35,8 @@ $$
 $Q_i$: Absatzmenge der Marke $i$
 $p_i$: Preis der Marke $i$
 
-- $\varepsilon_i \lt 1$: elastische Nachfrage: relative Mengenänderung größer als relative Preisänderung
-- $\varepsilon_i \gt 1$: unelastische Nachfrage: relative Mengenänderung kleiner als relative Preisänderung
+- $\varepsilon_i \lt -1$: elastische Nachfrage: relative Mengenänderung größer als relative Preisänderung
+- $\varepsilon_i \gt -1$: unelastische Nachfrage: relative Mengenänderung kleiner als relative Preisänderung
 
 Preiselastizität ist idR $\lt 1$
 
@@ -60,5 +60,5 @@ $$
 \varepsilon_{ij} = \frac{\delta Q_i}{\delta p_j} \frac{p_{j}}{Q_{i}}
 $$
 
-$\varepsilon_{ij} \gt 0$: substitutive Nachfrage, also Absatz von $i$ steigt mit zunehmenden Preisen von $j$
-$\varepsilon_{ij} \lt 0$: substitutive Nachfrage, also Absatz von $i$ sinkt mit zunehmenden Preisen von $j$
+- $\varepsilon_{ij} \gt 0$: substitutive Nachfrage, also Absatz von $i$ steigt mit zunehmenden Preisen von $j$
+- $\varepsilon_{ij} \lt 0$: substitutive Nachfrage, also Absatz von $i$ sinkt mit zunehmenden Preisen von $j$
