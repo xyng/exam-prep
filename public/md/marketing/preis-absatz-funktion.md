@@ -28,6 +28,8 @@ $Q_i$: Absatzmenge in Periode $i$
 $p_i$: Preis in Periode $i$
 
 ### Punktelastizität
+Anstatt Differenz nach Preisabsatzfunktion nach $p$ ableiten.
+
 $$
 \varepsilon_i = \frac{\delta Q_i}{\delta p_i} \frac{p_i}{Q_i} 
 $$

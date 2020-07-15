@@ -75,3 +75,6 @@ Vor allem bei neuen Informationen und in Nachkaufphase.
 
 #### Einflussfaktoren
 Konsumentenverhalten abhängig von Erfahrungsgrad (Informatiker vs. Otto-Normal-Surfer) und Preisbereich (Eigentumswohnung vs. Schokoriegel) 
+
+- Einstellungen mit starker affektiver Komponente sind häufig schwer zu ändern
+- Einstellungen mit starker kognitiver Komponente sind durch neue Informationen leichter beeinflussbar
