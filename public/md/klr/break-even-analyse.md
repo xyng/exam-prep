@@ -41,8 +41,8 @@ $$
 Mindest Umsatzrendite (Return on Sales):
 $$
 \text{RoS} = \frac{\text{Gewinn}}{\text{Umsatz}} = \frac{p*x - k_v * x - x * k_{fix}}{p * x}\\
-\Leftrightarrow x = \frac{k_{fix}}{p * (1 - \text{RoS} - k_v)}\\
-\Rightarrow x_{BE} = \frac{k_{fix}}{p * (1 - \text{RoS}_{min} - k_v)}
+\Leftrightarrow x = \frac{k_{fix}}{p * (1 - \text{RoS}) - k_v}\\
+\Rightarrow x_{BE} = \frac{k_{fix}}{p * (1 - \text{RoS}_{min}) - k_v}
 $$
 
 ### Mehrproduktfall
