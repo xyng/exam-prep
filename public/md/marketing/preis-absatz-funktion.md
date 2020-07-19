@@ -71,4 +71,4 @@ $$
 $$
 
 - $\varepsilon_{ij} \gt 0$: substitutive Nachfrage, also Absatz von $i$ steigt mit zunehmenden Preisen von $j$
-- $\varepsilon_{ij} \lt 0$: substitutive Nachfrage, also Absatz von $i$ sinkt mit zunehmenden Preisen von $j$
+- $\varepsilon_{ij} \lt 0$: komplementäre Nachfrage, also Absatz von $i$ steigt mit abnehmenden Preisen von $j$
