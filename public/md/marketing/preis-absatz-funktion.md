@@ -6,6 +6,10 @@ $$
 Q = a + b * p
 $$
 
+$$
+Q_{ij} = a + b * p_i + c * p_j
+$$
+
 $b$ idR negativ
 $Q$: Absatzmenge
 $p$: Preis
@@ -15,6 +19,10 @@ nicht-konstante Preiselastizität
 ### multiplikative PAF 
 $$
 Q = a * p^b
+$$
+
+$$
+Q_{ij} = a * p_i^b * p_j^c
 $$
 
 konstante Preiselastizität
