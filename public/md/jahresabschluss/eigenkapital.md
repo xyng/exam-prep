@@ -5,6 +5,8 @@ Residualanspruch der Eigentümer auf das Vermögen nach Abzug von Schulden.
 
 Keine Ansatz- oder Bewertungsprobleme!
 
+> Eigenkapital stellt das Ausmaß dar, in dem Verluste verkraftet werden können, ohne Gläubigeransprüche zu gefährden.
+
 ### Zusammensetzung
 - Einlagen der Gesellschafter
   - gezeichnetes Kapital
@@ -74,3 +76,31 @@ $$
 
 - Ausschüttungssperre für selbst erstellte Vermögensgegenstände des Anlagevermögens
 - Wer entscheidet über Höhe und Verwendung des Bilanzgewinns?
+
+### Kompetenzabgrenzung
+Aktionäre haben Anspruch auf Bilanzgewinn
+- Vorstand und Aufsichtsrat entscheiden über die Höhe des Bilanzgewinns
+- Hauptversammlung entscheidet über die Verwendung des Bilanzgewinns
+  - Ausschüttung
+  - Vortrag ins nächste Geschäftsjahr
+  - Einstellung in Gewinnrücklagen
+  
+### Ausweis des Eigenkapitals
+Vor Festlegung des Bilanzgewinns
+1. Gezeichnetes Kapital
+2. Kapitalrücklage
+3. Gewinnrücklage
+4. Gewinn- und Verlustvortrag
+5. Jahresüberschuss und Jahresfehlbetrag
+
+Vor Verwendung des Bilanzgewinns
+1. Gezeichnetes Kapital
+2. Kapitalrücklage
+3. Gewinnrücklage
+4. Bilanzgewinn und Verlust
+
+Nach Verwendung des Bilanzgewinns
+1. Gezeichnetes Kapital
+2. Kapitalrücklage
+3. Gewinnrücklage
+4. Gewinnvortrag und Verlustvortrag 
