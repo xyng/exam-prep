@@ -39,7 +39,7 @@ $$
 - $U: \text{Umsatzerlöse}$
 - $ONV: \text{Operatives Nettovermögen}$
 - $GM = \frac{\text{OG}_t}{U_t}$
-- Kapitalumschlag: $KU = \frac{U_t}{\frac{ONV}_{t-1}}}$
+- Kapitalumschlag: $KU = \frac{U_t}{\text{ONV}_{t-1}}}$
 
 $$
 \text{GKR}_t = \frac{\text{OG}_t}{\text{ONV}_{t-1}} = \frac{\text{OG}_t}{U_t} * \frac{U_t}{\text{ONV}_{t-1}} = \text{GM}_t * \text{KU}_t
