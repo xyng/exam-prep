@@ -71,6 +71,18 @@ Beispiel 5.
 
 Beispiel 6.
 
+### Offenlegung
+- Spätestens ein Jahr nach Bilanzstichtag im Bundesanzeiger
+- Umfang der einzureichenden Unterlagen nach Größe differenziert (ohne Kleinskapitalgesellschaften)
+
+Unterlagen | klein | mittelgroß | groß
+--- | --- | --- | --- |
+Bilanz | ja, verkürzt | ja, verkürzt | ja
+GuV | nein | ja, verkürzt | ja
+Anhang | ja, verkürzt | ja, verkürzt | ja
+Lagebericht Prüfungsurteil | entfällt | ja | ja
+Bericht des Aufsichtsrats | nein | ja | ja
+
 ### Beispiele
 
 1. MU erwirbt 100% an TU für 500
