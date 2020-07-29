@@ -27,7 +27,7 @@ $$
 Gewinn entspricht der Gegenüberstellung von Eträgen und Aufwendungen einer Periode.
 
 $$
-G_t = \sum^n_{i=1}}{E_i}-\sum^m_{j=1}}{A_j}
+G_t = \sum^n_{i=1}{E_i}-\sum^m_{j=1}{A_j}
 $$
 
 - Erträge erhöhen, Aufwendungen verringern EK. Daher: Beide Definitionen äquivalent.

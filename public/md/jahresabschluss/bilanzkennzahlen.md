@@ -1,7 +1,32 @@
 ---
 title: Bilanzkennzahlen
 ---
+### Gewinnkennzahlen
+#### EBIT
+- Earnings before interest and taxes
+- operatives Ergebnis bzw. Betriebsergebnis
+
+#### EBITDA
+- Earnings before interest, taxes, depreciation and amortization
+- EBIT + Abschreibungen
+
+#### Bestimmung über Gesamtkostenverfahren
+In der GuV:
+
+$$
+\text{Rohergebnis} = \text{Umsatzerlöse} - \text{Materialaufwand}\\
+\text{EBITDA} = \text{Rohergebnis} - \text{Personalaufwand}\\
+\text{EBIT} = \text{EBITDA} - \text{Abschreibungen}\\
+\text{EBT} = \text{EBIT} + \text{Zinserträge} - \text{Zinsaufwand}\\
+\text{JÜ} = \text{EBT} - \text{Steuern}
+$$
+
 ### Profitabilität
+#### Umsatzrentabilität
+Auch Umsatzrendite
+$$
+\text{Umsatzrentabilität} = \frac{\text{Gewinn}}{\text{Umsatz}}
+$$
 #### Gewinnmarge (Standardformel)
 Operative Wertschöpfung je erzieltem Umsatzeuro.
 
@@ -26,6 +51,13 @@ $$
 - Offenbar ist $y \gt x$, solange $\text{BM} \gt \text{GM}$
 - Alternativ erfordert eine Erhöhung von EBIT um $y$ eine Umsatzsteigerung von $y$ (wenn GM konstant).
 
+### Eigenkapital Quote
+EK Quote
+
+$$
+\frac{\text{gez. Kapital + JÜ}}{\text{Gesamtkapital}}
+$$
+
 ### Gesamtkapitalrendite
 - Maß für Rentabilität der operativen Wertschöpfung für Kapitalgeber
   - Nenner: operatives Nettovermögen zu Beginn der Periode
@@ -39,7 +71,7 @@ $$
 - $U: \text{Umsatzerlöse}$
 - $ONV: \text{Operatives Nettovermögen}$
 - $GM = \frac{\text{OG}_t}{U_t}$
-- Kapitalumschlag: $KU = \frac{U_t}{\text{ONV}_{t-1}}}$
+- Kapitalumschlag: $KU = \frac{U_t}{\text{ONV}_{t-1}}$
 
 $$
 \text{GKR}_t = \frac{\text{OG}_t}{\text{ONV}_{t-1}} = \frac{\text{OG}_t}{U_t} * \frac{U_t}{\text{ONV}_{t-1}} = \text{GM}_t * \text{KU}_t

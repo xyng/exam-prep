@@ -12,7 +12,7 @@ title: Verbindlichkeiten
 - Abschreibung analog
 - Untergrenze: Zugangswert
 
-Ausnahme: Bei Restlaufzeit von $\gte$ einem Jahr bewertung stets zum Stichtagswert (Zeitwertbilanzierung).
+Ausnahme: Bei Restlaufzeit von $\geq$ einem Jahr bewertung stets zum Stichtagswert (Zeitwertbilanzierung).
 
 ### Abzinsung
 - Abzinsung grundsätzlich nicht zulässig
