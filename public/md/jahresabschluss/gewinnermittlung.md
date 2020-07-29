@@ -55,3 +55,10 @@ Dauerhafte Entnahmen in Höhe des ökonomischen Gewinns erhalten den Ertragswert
 
 
 Problem: unter Unsicherheit nicht praxistauglich. Künftige Cashflow-Schätzungen zwangsläufig subjektiv.  
+
+#### ökonomische Abschreibung
+Rückwärtsverteilungsfaktor aus FiWi:
+
+$$
+\text{RVF}(i, T) = \frac{i}{(i+1)^T-1}
+$$
