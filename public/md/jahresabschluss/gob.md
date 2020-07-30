@@ -6,6 +6,41 @@ title: Grundsätze ordnungsmäßiger Buchführung
 - Posten der Aktivseite (Aufwendungen) können nicht mit Posten der Passivseite (Erträge) saldiert werden
 - Formelle Stetigkeit: Beibehaltung der Form der Darstellung des Jahresabschlusses
 
+#### Klarheit und Nachprüfbarkeit
+- Sachverständige Dritte müssen sich in angemessener Zeit in Buchführung zurechtfinden können
+- Änderungen müssen erkennbar sein
+- Es muss eine lebende Sprache verwendet werden
+- Jahresabschluss muss in Deutsch und in Euro aufgestellt werden
+- Vorgeschriebene Aufbewahrungsfristen sind einzuhalten
+
+#### Grundsätze der Vollständigkeit
+- alle Aufzeichnungen müssen vollständig, richtig, zeitgerecht und geordnet vorgenommen werden
+- Chronologische und zeitnahe Verbuchung
+
+#### Grundsatz der Richtigkeit
+- Sachlich und rechnerisch richtige Aufzeichnung aller Geschäftsvorfälle
+
+#### Belegprinzip
+- Keine Buchung ohne Beleg
+- Belege müssen sachlich und rechnerisch richtig sein
+- Geschäftsvorfälle müssen in Enstehung und Abwicklung verfolgbar sein
+- Belege müssen schnell auffind- und rückverfolgbar sein
+
+#### Grundsatz der Bilanzwahrheit
+- Vollständigkeit nach §246 HGB
+- tatsächliche Lage des Unternehmens ist zu vermitteln
+
+#### Grundsatz der Bilanzklarheit
+- Jahresabschluss muss klar und übersichtlich sein
+- Verrechnungsverbot. Keine Verrechnung von
+  - Aktiv- und Passivposten
+  - Aufwendungen mit Erträgen
+  - Grundstücksrechten mit Grundstückslasten
+
+#### Grundsatz der Bilanzkontinuität
+- Übereinstimmung von Eröffungsbilanz mit vorheriger Schlussbilanz
+- Beibehaltung der Gliederung nach Postenbezeichnung
+
 ### Ansatzgrundsätze: Vermögensgegenstände
 - Abstrakte Bilanzierungsfähigkeit
   - Wirtschaftlicher Nutzen
@@ -61,6 +96,7 @@ Aufwendungen und Erträge sind unabhängig vom Zeitpunkt der entsprechenden Zahl
 Realisationsprinzip:
 - Regelt Zeitpunkt der Gewinnrealisierung.
 - Realisiert, sobald z.B. Lieferung und Leistung vertragsmäßig vollbracht und die Rechnung gestellt ist (kompromiss zwischen wirtschaftlicher und vorsichtiger Betrachtungsweise).
+- nur realisierte Gewinne und Verluste dürfen ausgewiesen werden
 
 Imparitätsprinzip:
 - Beschränkt Anwendungsbereich des Realisationsprinzips auf Reinvermögensmehrungen ein.

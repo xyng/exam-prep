@@ -7,6 +7,42 @@ Keine Ansatz- oder Bewertungsprobleme!
 
 > Eigenkapital stellt das Ausmaß dar, in dem Verluste verkraftet werden können, ohne Gläubigeransprüche zu gefährden.
 
+### konstant vs. variabel
+- Einzelfirmen und Personengesellschaften haben variables Eigenkapitalkonto (GuV wird hier eingebucht)
+- Kapitalgesellschaften haben nominelles, konstantes Kapitalkonto.
+  - GmbH: Stammkapital
+  - AG: Grundkapital
+  
+### gezeichnetes Kapital
+Teil des Eigenkapitals, mit dem die Kapitalgesellschaft gegenüber Gläubigern haftet.
+
+- AG: Grundkapital (mind. 50.000€)
+- GmbH: Stammkapital (mind. 25.000€)
+
+### ausstehende Einlagen
+#### Eingeforderte ausstehende Einlagen
+Unter Forderungen gesondert auszuweisen und entsprechend zu bezeichnen.
+
+#### Nicht eingeforderte ausstehende Einlagen
+- Vom Posten "gezeichnetes Kapital" offen abzusetzen.
+- Verbleibender Betrag muss als "Eingefordertes Kapital" auf Passivseite ausgewiesen werden.
+
+### Kapitalrücklage
+Alle von außen zugeführte Beträge, die nicht Teil des gez. Kapitals sind.
+
+- Agio bei Ausgabe von Anteilen
+- Agio bei Wandel oder Optionsaktien
+- Zuzahlungen von Gesellschaftern für Vorkaufsrechte
+- andere Zuzahlungen von Gesellschaftern in EK
+
+### Gewinnrücklage
+Gewinnrücklagen sind Gewinne, die aus dem Jahresergebnis in der aktuellen oder einer vorherigen Periode thesauriert wurden.
+
+- gesetzliche Gewinnrücklagen (5% bzw. gesetzliche und Kapitalrücklage 10%)
+- satzungsgemäße Gewinnrücklage (je nach Gesellschaftsvertrag)
+- freiwillige (Gewinn-)Rücklagen
+- andere Gewinnrücklagen (zusammenfassung der restlichen Gewinnrücklagen)
+
 ### Zusammensetzung
 - Einlagen der Gesellschafter
   - gezeichnetes Kapital
@@ -84,6 +120,7 @@ Aktionäre haben Anspruch auf Bilanzgewinn
   - Ausschüttung
   - Vortrag ins nächste Geschäftsjahr
   - Einstellung in Gewinnrücklagen
+- Vorstand darf höchstens 50% des JÜ in Gewinnrücklagen einstellen
   
 ### Ausweis des Eigenkapitals
 Vor Festlegung des Bilanzgewinns

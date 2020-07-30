@@ -19,6 +19,8 @@ $$
 $$
 
 ### Latente Steuern
+> Siehe auch Zusammenfassung Seite 29 - 31
+
 Ertragssteuerschuld immer mit Ertragssteuerpflichtigem Gewinn nach StB bestimmen. 
 Diese dann von Ertragssteuerpflichtigem Gewinn nach HGB (abweichend wegen anderer Abschreibung oder Drohverlustrückstellungen) abziehen und jeweils effektiven Steuersatz berechnen.
 Der Anteil der latenten Steuern ist die Ertragsteuerschuld der Differenz der Ertragssteuerpflichtigen Gewinne HBG und StB.
@@ -61,3 +63,18 @@ Beispiele für permanente Differenzen
 Aufwand (oder Ertrag) der auch spätere Perioden betrifft (z.B. Versicherung für 6 Monate im Voraus im Dezember gezahlt).
 Der Teil des Buchwertes, der eine spätere Periode betrifft, wird in Arap eingebucht.
 In der betreffenden Periode wird der auf diese entfallende Betrag dort ausgebucht.
+
+#### Beispiel
+Am 1.12.2016 wird die Versicherung für 6 Monate im Voraus per Bank bezahlt (12.000€).
+
+Buchung in 2016:
+
+> Versicherungsaufwand an Bank 12.000
+
+Der Teil der Versicherung, der nicht mehr 2016 Betrifft (nur Dezember, also 12.000 / 6 = 2.000€ in 2016 => 10.000€ entfallen auf 2017) wird in ARAP gebucht.
+> ARAP an Versicherungsaufwand 10.000
+
+Buchung in 2017:
+
+ARAP wird ausgebucht
+> Versicherungsaufwand an ARAP 10.000

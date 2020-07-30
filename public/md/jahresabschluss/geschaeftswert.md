@@ -8,17 +8,6 @@ $$
 = \text{Geschäfts oder Firmenwert}
 $$
 
-### Ökonomische Geschäftswert
-Bestandteile:
-- Nicht aktivierungsfähige wirtschaftliche Vorteile (z.B. Forschungskosten, Know-how, Standort, Human-Capital)
-- Synergieeffekte
-- Bei derivaten Geschäftswert zusätzlich:
-  - mögliche Überzahlung
-  - Beherrschungsprämie (share deal, siehe Konzernabschluss)
-
-### Originärer Geschäftswert
-Ist kein Vermögensgegenstand und darf nicht aktiviert werden.
-
 ### Derivater Geschäftswert
 > "Entgeltlich erworbener Geschäftswert"
 
@@ -29,3 +18,16 @@ Aber dennoch kein Vermögensgegenstand.
 - Wenn keine Nutzungsdauer gegeben: 10 Jahre
 - Keine Zuschreibung nach außerplanmäßiger Abschreibung möglich
   - Wertsteigerung kann auch andere Gründe enthalten, die erst nach Kauf entstanden sind.
+
+### Originärer Geschäftswert
+> Selbstgeschaffener Geschäftswert
+
+Ist kein Vermögensgegenstand und darf nicht aktiviert werden (weder in HGB noch StB).
+
+### Ökonomischer Geschäftswert
+Bestandteile:
+- Nicht aktivierungsfähige wirtschaftliche Vorteile (z.B. Forschungskosten, Know-how, Standort, Human-Capital)
+- Synergieeffekte
+- Bei derivaten Geschäftswert zusätzlich:
+  - mögliche Überzahlung
+  - Beherrschungsprämie (share deal, siehe Konzernabschluss)

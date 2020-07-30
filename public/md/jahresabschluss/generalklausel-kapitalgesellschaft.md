@@ -28,7 +28,7 @@ Bestandteile:
 
 #### Bilanz Aktiva
 Anlagevermögen
-- Immaterielle VG
+- Immaterielle Vermögensgegenstände
   - selbst geschaffene gewerbliche Schutzrechte und vergleichbares
   - Konzessionen, gewerbliche Schutzrechte oder vergleichbares, sowie abgeleitete Lizenzen
   - Geschäfts- oder Firmenwert

@@ -18,14 +18,14 @@ Vermögensgegenstände sind höchstens mit den Anschaffungs- oder Herstellungsko
 1. Anschaffungspreis
     - Nettopreis
     - Bei Fremdwährung Umrechnung zum Devisenkassamittelkurs im Zugangszeitpunkt
-2. Anschaffungsnebenkosten
+2. \+ Anschaffungsnebenkosten
     - Erwerb
     - Versetzung in betriebsbereiten Zustand
     - Beschränkung auf Einzelkosten
-3. Nachträgliche Anschaffungskosten
+3. \+ Nachträgliche Anschaffungskosten
     - Nachträgliche Aufwendungen
     - Nachträgliche Preiserhöhungen
-4. Minderung um Preisnachlässe
+4. \- Minderung um Preisnachlässe
     - Skonti, Rabatte
     - Ausnahme Boni: sofortiger Ertrag
     

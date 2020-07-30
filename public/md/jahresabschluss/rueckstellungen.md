@@ -35,3 +35,9 @@ Abzinsungsgebot
 - Abzinsung von Rückstellungen mit mehr als einem Jahr Restlaufzeit mit durchschnittlichem Marktzinssatz der vergangenen sieben Geschäftsjahre
 - Verstoß gegen Realisationsprinzip, wenn kein Zinsanteil enthalten
 - Bei Pensionsverpflichtungen durchschnittlicher Marktzinssatz für Restlaufzeit von 15 Jahren.
+
+### Rückstellung vs Rücklage
+- Rückstellungen: Bestandteil des Fremdkapitals
+- Rücklagen: Bestandteil des Eigenkapitals
+- Beide: Instrument zur Innenfinanzierung
+- Können zur Reduktion der Ausschüttungsbemessungsgrundlage (= JÜ) genutzt werden.
