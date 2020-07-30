@@ -8,10 +8,13 @@ Gewinn ist jener Betrag, der dem Unternehmen entzogen werden kann, ohne die Gewi
 - Reale Kapitalerhaltung (derzeit kaum relevant)
   - allgemeiner Preisindex wird angewendet
   - Scheingewinn ist nominaler Gewinn, entsteht aber nur wegen Inflation.
+  - $\text{reale Kapitalerhaltung} = \text{EK zu Periodenbeginn} * \text{Veränderung Preisindex}$
+  - $\text{Scheingewinn} = \text{nominale Kapitalerhaltung} - \text{reale Kapitalerhaltung}$
 - Substanzerhaltung (derzeit kaum relevant)
   - Erhaltung der Produktionsmittel und nicht des investierten Kapitals
-  - Scheingewinn is nominaler Gewinn, entsteht aber nur wegen steigender Wiederbeschaffungspreise der Produktionsmittel.
-
+  - Scheingewinn ist nominaler Gewinn, entsteht aber nur wegen steigender Wiederbeschaffungspreise der Produktionsmittel.
+  - $\text{substanzorientierter Gewinn} = \text{Verkaufspreis} - \text{Wiederbeschaffungspreis}$
+  - $\text{Scheingewinn} = \text{Nominalgewinn} - \text{Substanzgewinn}$
 ### Bestandsorientierte Gewinnermittlung
 Gewinn entspricht der Veränderung des Reinvermögens zwischen zwei Zeitpunkten, korrigiert um die Nettodividende an die Eigentümer.
 
