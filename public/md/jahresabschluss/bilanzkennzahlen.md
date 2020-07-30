@@ -106,7 +106,7 @@ $$
 - Accounts receivable Turnover gibt durchschnittliches Zahlungsziel von Lieferantenforderungen in Tagen an
 
 $$
-DUD_t = \frac{365 * \frac{1}{2}(\text{Ford. LuL}_t+\text{Ford. LuL}_{t-1})}{\text{Umsatzkosten}_t}
+DUD_t = \frac{365 * \frac{1}{2}(\text{Ford. LuL}_t+\text{Ford. LuL}_{t-1})}{\text{Umsatzerlöse}_t}
 $$
 
 ### Kreditorenumschlagsdauer (KUD)
