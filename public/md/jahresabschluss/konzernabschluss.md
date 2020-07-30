@@ -29,15 +29,14 @@ Kleine Konzerne müssen keinen Konzernabschluss durchführen (gemessen an Bilanz
 
 Alle Kapitalmarktunternehmen sind verpflichtet, einen Konzernabschluss nach IFRS durchzuführen. Hierbei müssen diese keinen handelsrechtlichen Konzernabschluss durchführen. 
 
-### Bewertung bei Teilbeteiligung
+### Bewertung bei Teilbeteiligung (Unterschiedsbetrag)
 > (Wenn Beteiligung > 55 aber < 100%)
 
 siehe Beispiel 4.
 
 $$
 \text{Beteiligungsbuchwert (bei MU)}\\
-+ \text{Minderheitenanteile beim neuen EK}\\
-- \text{Neues EK}\\
+- \text{Anteil} * (\text{EK} + \text{stille Reserven})\\
 = \text{Beteiligungsproportionaler Goodwill}
 $$
 
@@ -85,7 +84,7 @@ Bericht des Aufsichtsrats | nein | ja | ja
 
 ### Beispiele
 
-1. MU erwirbt 100% an TU für 500
+#### 1. MU erwirbt 100% an TU für 500
 - Keine stillen Reserven
 - Kein verbleibender Unterschiedsbetrag
 
@@ -113,7 +112,7 @@ Grundstück $300$ | EK $2.000$
 Sonst. Aktiva $5.700$ | Schulden $4.000$
 6.000 | 6.000
 
-2. MU erwirbt 100% an TU für 1200
+#### 2. MU erwirbt 100% an TU für 1200
 - Zeitwert des Grundstücks 800
 - Aktivierung des Unterschiedsbetrag als Goodwill
 
@@ -146,7 +145,7 @@ Goodwill 200 | Schulden $4.700$
 Sonst. Aktiva $5.700$ | 
 6.700 | 6.700
 
-3. MU erwirbt 100% an TU für 900
+#### 3. MU erwirbt 100% an TU für 900
 - Zeitwert des Grundstücks 800
 - Unterschiedsbetrag als Ertrag
 
@@ -179,7 +178,7 @@ Grundstück $800$ | EK $2.000$
 Sonst. Aktiva $5.700$ | Schulden $4.400$
 6.500 | 6.500
 
-4. MU erwirbt 60% an TU für 900
+#### 4. MU erwirbt 60% an TU für 900
 - Zeitwert des Grundstücks 800
 - Unterschiedsbetrag als Ertrag
 
@@ -211,7 +210,7 @@ Goodwill $300$ | Minderheiten $400$
 Sonst. Aktiva $5.700$ | Schulden $4.400$
 6.800 | 6.800
 
-5. MU hält 100% an TU für 350
+#### 5. MU hält 100% an TU für 350
 - TU hat gegenüber MU Verbindlichkeit von 200. Bei MU wegen Langfristigkeit auf 195 abgezinst.
 - TU bildet für Leistungen gegenüber MU eine Garantierücklage von 30.
 
@@ -249,7 +248,7 @@ Aktiva $3.320$ | EK $1.130$
 | | Schulden $2.190$
 3.320 | 3.320
 
-6. Ertragskonsolidierung
+#### 6. Ertragskonsolidierung
 - TU fertigt für $50$ MK + $35$ FK und liefert für $110$ an MU.
 - MU verarbeitet Produkt für $40$ weiter
 
@@ -288,3 +287,56 @@ Bestandsveränderung | | 140 | -15 | 125
 MK | -50 | -110 | + 110 | -50
 FK | -35 | -40 | | -75
 Jahresüberschuss | 25 | -10 | -15 | 0
+
+### Buchungssätze
+
+#### EK ausbuchen
+> sonst. EK an Beteiligung
+
+#### Schuldenkonsolidierung
+##### abgeschriebener Kredit
+Kredit über 200 abgeschrieben auf 120
+
+- reine Schuldenkonsolidierung
+  > Verbindlichkeiten an Forderung
+- Zwergel Bilanz (Abschreibung rückgängig):
+  > Forderung an Jahresüberschuss 80
+- Zwergel GuV (Aufwand der Abschreibung ausbuchen):
+  > Jahresüberschuss an Aufwendungen 80
+
+##### Aktiva an TU
+Fall: Aktiva iWv. 100 an TU für 220
+
+- Schuldenkonsolidierung
+  > Verbindlichkeiten an Forderung 220
+- Aufwands- und Ertragskonsolidierung
+  > Umsatzerlöse an Aufwendungen 100
+- Zwergel Bilanz
+  > Jahresüberschuss an Aktiva 120
+- Zwergel GuV
+  > Umsatzerlöse an Jahresüberschuss 120
+
+#### Rückzahlung abgeschriebener Kredit
+- Zwergel Bilanz (Ausbuchung Abschreibung)
+  > Jahresüberschuss an sonst. EK 80
+- Zwergel GuV (Ertrag durch Abschreibung stornieren)
+  > Etrag an Jahresüberschuss 80
+
+#### interner Verkauf von Waren
+Ware mit HK 70 für 90 an TU verkauft
+
+- Aufwands und Ertragskonsolidierung
+  > Umsatzerlöse an Aufwendungen 70
+- Zwergel Bilanz (JÜ ausbuchen)
+  > Jahresüberschuss an Fertige Erzeugnisse 20
+- Zwergel GuV (Ertrag ausbuchen)
+  > Umsatzerlöse an Jahresüberschuss 20
+
+#### Verkauf von Waren an TU und dann an Extern
+Ware mit HK 70 für 90 an TU verkauft, von dort für 100 an extern.
+
+Konzernsicht: Waren für 70 erstellt und für 100 verkauft.
+Dadurch sind Gewinne realisiert und wir machen keine Zwergel!
+
+- Aufwands und Ertragskonsolidierung (internen Verkauf ausbuchen)
+  > Umsatzerlöse an Aufwendungen 90
