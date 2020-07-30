@@ -1,6 +1,13 @@
 ---
 title: Folgebewertung des Anlagevermögens
 ---
+Zum Anlagevermögen zählen grundsätzlich alle Wertanlagen, die langfristig sind. Was also mehrere Jahre einem Unternehmen helfen soll, wird als Anlage deklariert. Laut §247 Abs. 2 des Handelsgesetzbuches (HGB) geht es bei dem Anlagevermögen um Gegenstände, die dafür bestimmt sind, dem Geschäftsbetrieb dauerhaft zu dienen.
+
+Das wird aufgeteilt in:
+- Sachanlagen
+- immaterielle Vermögensgegenstände
+- Finanzanlagen
+
 ### Planmäßige Abschreibung
 - Gewinnentstehung an Umsatz gebunden
 - Dadurch Zuordnung der Auszahlungen auf Perioden, in denen Umsätze mithilfe des Vermögensgegenstandes erzielt werden.

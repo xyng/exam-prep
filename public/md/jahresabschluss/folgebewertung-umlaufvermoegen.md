@@ -1,6 +1,14 @@
 ---
 title: Folgebewertung des Umlaufvermögens
 ---
+Gegenstände, die nur kurzfristig im Unternehmen sind und ständig umgeschlagen werden.
+
+- liquide Mittel
+- Forderungen
+- Vorräte
+- Wertpapiere
+- sonstige Vermögensgegenstände
+
 ### Folgebewertung von Vorräten
 - Strenges Niederstwertprinzip
   - Anschaffungs- oder Herstellkosten
